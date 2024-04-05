@@ -22,3 +22,8 @@ Gensim
 **Contribution:**
 Contributions to this project are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
 
+From the analysis, the optimal combination for achieving the best accuracy score (70%) is the use of random forest classifier model with Word2Vec for vectorisation.
+
+![WhatsApp Image 2024-04-05 at 6 47 06 PM](https://github.com/ArvindRNambiar/Duplicate-Question-Detection-on-Quora/assets/110168641/8565b193-4b87-4e95-8ce1-326e4f8be428)
+
+
